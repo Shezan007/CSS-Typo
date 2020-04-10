@@ -24,7 +24,7 @@ body{
     color: #fff;
     
     font-family: op-sans-bold;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 .pikachu{
     width: 45%;
@@ -61,12 +61,12 @@ body{
 }
 
 .love-text{
-    font-size: 200px;
+    font-size: 250px;
 
 }
 
 .love-name{
-    font-size: 330px;
+    font-size: 300px;
 }
 
 .intro{
